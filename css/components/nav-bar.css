@@ -16,6 +16,7 @@
 .nav_link {
   color: #2e363e;
   position: relative;
+  text-decoration: none;
 }
 
 @keyframes notuificationAnimation {
@@ -44,7 +45,6 @@
   left: 15px;
   bottom: 15px;
   animation: notuificationAnimation 2s ease-in-out infinite;
-  text-decoration: none;
 }
 
 .nav_notification2 {
