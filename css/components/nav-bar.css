@@ -44,6 +44,7 @@
   left: 15px;
   bottom: 15px;
   animation: notuificationAnimation 2s ease-in-out infinite;
+  text-decoration: none;
 }
 
 .nav_notification2 {
