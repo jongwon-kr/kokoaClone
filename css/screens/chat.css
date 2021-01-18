@@ -1,8 +1,9 @@
 body {
   background-color: #f9e9da;
 }
+
 #chat-screen {
-  background-color: #abc1d1;
+  background-color: #f9e9da;
   height: 500vh;
 }
 
@@ -95,7 +96,7 @@ body {
 }
 
 .message-row-own .message_bubble {
-  background-color: var(--yellow);
+  background-color: #white;
   padding: 8px;
   border-radius: 15px;
   border-top-right-radius: 0px;
@@ -155,7 +156,7 @@ body {
 }
 
 .reply_column button {
-  background-color: var(--yellow);
+  background-color: #f9e9da;
   border: none;
   width: 30px;
   height: 30px;
