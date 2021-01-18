@@ -18,7 +18,7 @@
   position: relative;
 }
 
-@keyframes notuificationAnimation {
+@keyframes notificationAnimation {
   0% {
     transform: none;
   }
@@ -43,7 +43,7 @@
   position: absolute;
   left: 15px;
   bottom: 15px;
-  animation: notuificationAnimation 2s ease-in-out infinite;
+  animation: notificationAnimation 2s ease-in-out infinite;
 }
 
 .nav_notification2 {

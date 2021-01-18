@@ -1,3 +1,6 @@
+body {
+  background-color: #f9e9da;
+}
 .find-icons {
   display: flex;
   justify-content: space-between;

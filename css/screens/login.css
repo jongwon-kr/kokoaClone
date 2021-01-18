@@ -1,3 +1,6 @@
+body {
+  background-color: #f9e9da;
+}
 #login-form {
   position: relative;
   display: flex;
@@ -11,20 +14,25 @@
   font-size: 18px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
   margin-bottom: 25px;
+  border-radius: 20px;
   transition: border-color 0.3s ease-in-out;
 }
 
 #login-form input::placeholder {
   color: rgba(0, 0, 0, 0.4);
+  padding-left: 30px;
 }
+
 #login-form input:focus {
   border-color: var(--yellow);
 }
 #login-form input[type="submit"] {
-  background-color: var(--yellow);
+  background-color: white;
   cursor: pointer;
-  padding: 20px 0px;
+  padding: 20px -20px;
   border-radius: 5px;
+  border-radius: 30px;
+  margin-top: 20px;
 }
 
 #login-form a {

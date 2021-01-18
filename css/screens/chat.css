@@ -1,3 +1,6 @@
+body {
+  background-color: #f9e9da;
+}
 #chat-screen {
   background-color: #abc1d1;
   height: 500vh;
