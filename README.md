@@ -1,4 +1,4 @@
-![image](https://github.com/jongwon-kr/kokoaClone/assets/76871947/11ec7f2d-c446-4622-a2fb-c64be892b81f)# 코코아 클론
+# 코코아 클론
 ## 프로젝트 설명
 Nomard Coders의 챌린지중 한개로 카카오톡의 디자인 및 시각적인 부분을 클론한 프로젝트
 
